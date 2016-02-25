@@ -1,3 +1,8 @@
+// COMP 1073 midterm exam  
+// Chad Clarke
+// Travel Website 
+// this is the travel website i made for the midterm exam for Tom 
+
 // setup your IIFE (Immediately Invoked Function Expression)
 var travelReport = (function () {
 
